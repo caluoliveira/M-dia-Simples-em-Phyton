@@ -1,4 +1,4 @@
-# Media-Simples-em-Phyton
+# Media Simples em Phyton
 Problema a se resolver: elabore um programa que leia 4 valores INTEIROS e retorne ao usuário a sua média simples.
 
 ## O que é isso?
